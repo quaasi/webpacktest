@@ -9,4 +9,4 @@
 
 // console.log('Hello World from Webpacker');
 import '../styles/application.sass'
-import '../app'
+import '../javascript'
